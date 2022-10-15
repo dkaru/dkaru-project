@@ -187,6 +187,7 @@ nav a:focus {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
+  display: flex;
 }
 @media (max-width: 800px) {
   .column {
