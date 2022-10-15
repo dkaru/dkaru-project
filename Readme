@@ -1,5 +1,57 @@
-The project name  is Quality barber shop 
-This project is created by Damaris Wangui 
-The project is basically on how to offer best services to my estimeed clients by giving them 
-easy access to the barber shop and be able to book an appointment on a given slot
-The project is setup on html, css, and javascript and contain a copyright license
+# Name of the Project
+Quality Barber shop
+ ### Author : Name Date
+ Damaris Wangui
+ ## Project Description
+ This project is about barber shop services created for my estemmed customer to access the services by apointment 
+ with slot by that my clients wont have to wait for long in a que .
+ ******
+ ## SCREENSHOTS
+ - link 1
+ 
+ - link 2
+ ********
+ ## SetUp Instruction
+ ### Requirements
+ * [Lang](lang Url)
+ * [Framework](Framework URL)
+ * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
+ * [Testing Platform](Platform URL)
+ ### Getting Files
+ * Fork the repo
+ - Create a new branch in your terminal (git checkout -b improve-feature)
+ - Install the prerequisites
+ - Make appropriate changes in file(s)
+ - Run the server to see the changes
+ - Add the changes and commit them (git commit -am "Improve App")
+ - Push to the branch (git push origin improve-app)
+ - Create a Pull request
+ * Open the folder location on terminal and use the following command to run app:
+ ## How To Run It
+ >  $ pip install -r requirements.txt
+ To install all requirements
+ > $ python3 manage.py runserver
+ Then run server with the above command
+ *****
+ ## Live Link
+ Or you can access the web application directly via this [LINK.](link.com/)
+ *****
+ ## Dependencies
+ - Package Name
+ - Package Name
+ - Package Name
+ - Package Name
+ *****
+ ## Technologies Used
+ 1. HTML
+ 2. MdBootstrap
+ 3. HTML
+ 4. CSS
+ 5. JavaScript
+ *****
+ ## Contact Information
+ * Email : example@gmail.com
+ *****
+ ## [License](LICENSE)
+ MIT License
+ Copyright (c) YEAR Author
